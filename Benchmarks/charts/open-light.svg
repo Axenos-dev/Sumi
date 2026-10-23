@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="223.0" viewBox="0 0 840.0 223.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Time to open a whole answer">
+<title>Time to open a whole answer</title>
+<text x="0.0" y="20.0" font-size="15.0" font-weight="600" fill="#0b0b0b">Time to open a whole answer</text>
+<text x="0.0" y="41.0" font-size="13.0" font-weight="400" fill="#52514e">In milliseconds, for a 32 KB answer in a new view. Less is better.</text>
+<text x="0.0" y="100.5" font-size="13.0" font-weight="600" fill="#0b0b0b">Sumi</text>
+<text x="0.0" y="128.5" font-size="13.0" font-weight="400" fill="#52514e">SwiftStreamingMarkdown</text>
+<text x="0.0" y="156.5" font-size="13.0" font-weight="400" fill="#52514e">MarkdownUI</text>
+<text x="0.0" y="184.5" font-size="13.0" font-weight="400" fill="#52514e">Textual</text>
+<text x="0.0" y="212.5" font-size="13.0" font-weight="400" fill="#52514e">Plain NSTextView</text>
+<text x="184.0" y="72.0" font-size="13.0" font-weight="600" fill="#0b0b0b">Mixed</text>
+<rect x="183.0" y="85.0" width="1" height="134.0" fill="#c3c2b7"/>
+<path d="M184.0 89.0H184.0A2.0 2.0 0 0 1 186.0 91.0V101.0A2.0 2.0 0 0 1 184.0 103.0H184.0Z" fill="#2a78d6"/>
+<text x="192.0" y="100.0" font-size="12.0" font-weight="600" fill="#0b0b0b">40</text>
+<path d="M184.0 117.0H209.361179450616A4.0 4.0 0 0 1 213.361179450616 121.0V127.0A4.0 4.0 0 0 1 209.361179450616 131.0H184.0Z" fill="#898781"/>
+<text x="219.361179450616" y="128.0" font-size="12.0" font-weight="400" fill="#52514e">672</text>
+<path d="M184.0 145.0H188.7576190838961A4.0 4.0 0 0 1 192.7576190838961 149.0V155.0A4.0 4.0 0 0 1 188.7576190838961 159.0H184.0Z" fill="#898781"/>
+<text x="198.7576190838961" y="156.0" font-size="12.0" font-weight="400" fill="#52514e">200</text>
+<path d="M184.0 173.0H206.98085931818545A4.0 4.0 0 0 1 210.98085931818545 177.0V183.0A4.0 4.0 0 0 1 206.98085931818545 187.0H184.0Z" fill="#898781"/>
+<text x="216.98085931818545" y="184.0" font-size="12.0" font-weight="400" fill="#52514e">617</text>
+<path d="M184.0 201.0H184.0A2.0 2.0 0 0 1 186.0 203.0V213.0A2.0 2.0 0 0 1 184.0 215.0H184.0Z" fill="#898781"/>
+<text x="192.0" y="212.0" font-size="12.0" font-weight="400" fill="#52514e">19</text>
+<text x="348.0" y="72.0" font-size="13.0" font-weight="600" fill="#0b0b0b">Prose</text>
+<rect x="347.0" y="85.0" width="1" height="134.0" fill="#c3c2b7"/>
+<path d="M348.0 89.0H348.0A2.0 2.0 0 0 1 350.0 91.0V101.0A2.0 2.0 0 0 1 348.0 103.0H348.0Z" fill="#2a78d6"/>
+<text x="356.0" y="100.0" font-size="12.0" font-weight="600" fill="#0b0b0b">31</text>
+<path d="M348.0 117.0H356.20341942869015A4.0 4.0 0 0 1 360.20341942869015 121.0V127.0A4.0 4.0 0 0 1 356.20341942869015 131.0H348.0Z" fill="#898781"/>
+<text x="366.20341942869015" y="128.0" font-size="12.0" font-weight="400" fill="#52514e">279</text>
+<path d="M348.0 145.0H351.0539632642244A4.0 4.0 0 0 1 355.0539632642244 149.0V155.0A4.0 4.0 0 0 1 351.0539632642244 159.0H348.0Z" fill="#898781"/>
+<text x="361.0539632642244" y="156.0" font-size="12.0" font-weight="400" fill="#52514e">161</text>
+<path d="M348.0 173.0H358.88841253331896A4.0 4.0 0 0 1 362.88841253331896 177.0V183.0A4.0 4.0 0 0 1 358.88841253331896 187.0H348.0Z" fill="#898781"/>
+<text x="368.88841253331896" y="184.0" font-size="12.0" font-weight="400" fill="#52514e">341</text>
+<path d="M348.0 201.0H348.0A2.0 2.0 0 0 1 350.0 203.0V213.0A2.0 2.0 0 0 1 348.0 215.0H348.0Z" fill="#898781"/>
+<text x="356.0" y="212.0" font-size="12.0" font-weight="400" fill="#52514e">16</text>
+<text x="512.0" y="72.0" font-size="13.0" font-weight="600" fill="#0b0b0b">Code</text>
+<rect x="511.0" y="85.0" width="1" height="134.0" fill="#c3c2b7"/>
+<path d="M512.0 89.0H512.0A2.0 2.0 0 0 1 514.0 91.0V101.0A2.0 2.0 0 0 1 512.0 103.0H512.0Z" fill="#2a78d6"/>
+<text x="520.0" y="100.0" font-size="12.0" font-weight="600" fill="#0b0b0b">23</text>
+<path d="M512.0 117.0H568.3046963264654A4.0 4.0 0 0 1 572.3046963264654 121.0V127.0A4.0 4.0 0 0 1 568.3046963264654 131.0H512.0Z" fill="#898781"/>
+<text x="578.3046963264654" y="128.0" font-size="12.0" font-weight="400" fill="#52514e">1,380</text>
+<path d="M512.0 145.0H512.0A2.0 2.0 0 0 1 514.0 147.0V157.0A2.0 2.0 0 0 1 512.0 159.0H512.0Z" fill="#898781"/>
+<text x="520.0" y="156.0" font-size="12.0" font-weight="400" fill="#52514e">25</text>
+<path d="M512.0 173.0H530.8126129382202A4.0 4.0 0 0 1 534.8126129382202 177.0V183.0A4.0 4.0 0 0 1 530.8126129382202 187.0H512.0Z" fill="#898781"/>
+<text x="540.8126129382202" y="184.0" font-size="12.0" font-weight="400" fill="#52514e">522</text>
+<path d="M512.0 201.0H512.0A2.0 2.0 0 0 1 514.0 203.0V213.0A2.0 2.0 0 0 1 512.0 215.0H512.0Z" fill="#898781"/>
+<text x="520.0" y="212.0" font-size="12.0" font-weight="400" fill="#52514e">19</text>
+<text x="676.0" y="72.0" font-size="13.0" font-weight="600" fill="#0b0b0b">Table</text>
+<rect x="675.0" y="85.0" width="1" height="134.0" fill="#c3c2b7"/>
+<path d="M676.0 89.0H676.0A2.216108806261462 2.216108806261462 0 0 1 678.2161088062614 91.21610880626146V100.78389119373854A2.216108806261462 2.216108806261462 0 0 1 676.0 103.0H676.0Z" fill="#2a78d6"/>
+<text x="684.2161088062614" y="100.0" font-size="12.0" font-weight="600" fill="#0b0b0b">51</text>
+<path d="M676.0 117.0H703.7660324642834A4.0 4.0 0 0 1 707.7660324642834 121.0V127.0A4.0 4.0 0 0 1 703.7660324642834 131.0H676.0Z" fill="#898781"/>
+<text x="713.7660324642834" y="128.0" font-size="12.0" font-weight="400" fill="#52514e">727</text>
+<path d="M676.0 145.0H709.4774190342125A4.0 4.0 0 0 1 713.4774190342125 149.0V155.0A4.0 4.0 0 0 1 709.4774190342125 159.0H676.0Z" fill="#898781"/>
+<text x="719.4774190342125" y="156.0" font-size="12.0" font-weight="400" fill="#52514e">857</text>
+<path d="M676.0 173.0H784.0A4.0 4.0 0 0 1 788.0 177.0V183.0A4.0 4.0 0 0 1 784.0 187.0H676.0Z" fill="#898781"/>
+<text x="794.0" y="184.0" font-size="12.0" font-weight="400" fill="#52514e">2,562</text>
+<path d="M676.0 201.0H676.0A2.0 2.0 0 0 1 678.0 203.0V213.0A2.0 2.0 0 0 1 676.0 215.0H676.0Z" fill="#898781"/>
+<text x="684.0" y="212.0" font-size="12.0" font-weight="400" fill="#52514e">19</text>
+</svg>

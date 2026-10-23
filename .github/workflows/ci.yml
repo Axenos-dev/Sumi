@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Show the Swift version
+        run: swift --version
+
+      - name: Check formatting
+        run: >
+          swift format lint --strict --configuration .swift-format --recursive
+          Package.swift Sources Tests Benchmarks/Shared
+          Benchmarks/Native/Sources Benchmarks/StreamingMarkdown/Sources
+
+      - name: Build
+        run: swift build
+
+      - name: Test
+        run: swift test

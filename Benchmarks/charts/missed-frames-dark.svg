@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840.0" height="223.0" viewBox="0 0 840.0 223.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Missed frames while the answer streams">
+<title>Missed frames while the answer streams</title>
+<text x="0.0" y="20.0" font-size="15.0" font-weight="600" fill="#f0efec">Missed frames while the answer streams</text>
+<text x="0.0" y="41.0" font-size="13.0" font-weight="400" fill="#c3c2b7">Out of about 800 frames at 60 Hz, while a 32 KB answer arrives. Fewer is better.</text>
+<text x="0.0" y="100.5" font-size="13.0" font-weight="600" fill="#f0efec">Sumi</text>
+<text x="0.0" y="128.5" font-size="13.0" font-weight="400" fill="#c3c2b7">SwiftStreamingMarkdown</text>
+<text x="0.0" y="156.5" font-size="13.0" font-weight="400" fill="#c3c2b7">MarkdownUI</text>
+<text x="0.0" y="184.5" font-size="13.0" font-weight="400" fill="#c3c2b7">Textual</text>
+<text x="0.0" y="212.5" font-size="13.0" font-weight="400" fill="#c3c2b7">Plain NSTextView</text>
+<text x="184.0" y="72.0" font-size="13.0" font-weight="600" fill="#f0efec">Mixed</text>
+<rect x="183.0" y="85.0" width="1" height="134.0" fill="#383835"/>
+<path d="M184.0 89.0H192.52088452088452A4.0 4.0 0 0 1 196.52088452088452 93.0V99.0A4.0 4.0 0 0 1 192.52088452088452 103.0H184.0Z" fill="#3987e5"/>
+<text x="202.52088452088452" y="100.0" font-size="12.0" font-weight="600" fill="#f0efec">91</text>
+<path d="M184.0 117.0H184.0A2.0 2.0 0 0 1 186.0 119.0V129.0A2.0 2.0 0 0 1 184.0 131.0H184.0Z" fill="#6f6e69"/>
+<text x="192.0" y="128.0" font-size="12.0" font-weight="400" fill="#c3c2b7">3</text>
+<path d="M184.0 145.0H203.3906633906634A4.0 4.0 0 0 1 207.3906633906634 149.0V155.0A4.0 4.0 0 0 1 203.3906633906634 159.0H184.0Z" fill="#6f6e69"/>
+<text x="213.3906633906634" y="156.0" font-size="12.0" font-weight="400" fill="#c3c2b7">170</text>
+<path d="M184.0 173.0H254.02457002457004A4.0 4.0 0 0 1 258.02457002457004 177.0V183.0A4.0 4.0 0 0 1 254.02457002457004 187.0H184.0Z" fill="#6f6e69"/>
+<text x="264.02457002457004" y="184.0" font-size="12.0" font-weight="400" fill="#c3c2b7">538</text>
+<path d="M184.0 201.0H184.0A2.0 2.0 0 0 1 186.0 203.0V213.0A2.0 2.0 0 0 1 184.0 215.0H184.0Z" fill="#6f6e69"/>
+<text x="192.0" y="212.0" font-size="12.0" font-weight="400" fill="#c3c2b7">2</text>
+<text x="348.0" y="72.0" font-size="13.0" font-weight="600" fill="#f0efec">Prose</text>
+<rect x="347.0" y="85.0" width="1" height="134.0" fill="#383835"/>
+<path d="M348.0 89.0H348.0A3.9901719901719908 3.9901719901719908 0 0 1 351.990171990172 92.99017199017199V99.00982800982801A3.9901719901719908 3.9901719901719908 0 0 1 348.0 103.0H348.0Z" fill="#3987e5"/>
+<text x="357.990171990172" y="100.0" font-size="12.0" font-weight="600" fill="#f0efec">29</text>
+<path d="M348.0 117.0H348.0A2.0 2.0 0 0 1 350.0 119.0V129.0A2.0 2.0 0 0 1 348.0 131.0H348.0Z" fill="#6f6e69"/>
+<text x="356.0" y="128.0" font-size="12.0" font-weight="400" fill="#c3c2b7">7</text>
+<path d="M348.0 145.0H366.97788697788695A4.0 4.0 0 0 1 370.97788697788695 149.0V155.0A4.0 4.0 0 0 1 366.97788697788695 159.0H348.0Z" fill="#6f6e69"/>
+<text x="376.97788697788695" y="156.0" font-size="12.0" font-weight="400" fill="#c3c2b7">167</text>
+<path d="M348.0 173.0H399.3120393120393A4.0 4.0 0 0 1 403.3120393120393 177.0V183.0A4.0 4.0 0 0 1 399.3120393120393 187.0H348.0Z" fill="#6f6e69"/>
+<text x="409.3120393120393" y="184.0" font-size="12.0" font-weight="400" fill="#c3c2b7">402</text>
+<path d="M348.0 201.0H348.0A2.0 2.0 0 0 1 350.0 203.0V213.0A2.0 2.0 0 0 1 348.0 215.0H348.0Z" fill="#6f6e69"/>
+<text x="356.0" y="212.0" font-size="12.0" font-weight="400" fill="#c3c2b7">2</text>
+<text x="512.0" y="72.0" font-size="13.0" font-weight="600" fill="#f0efec">Code</text>
+<rect x="511.0" y="85.0" width="1" height="134.0" fill="#383835"/>
+<path d="M512.0 89.0H514.0540540540541A4.0 4.0 0 0 1 518.0540540540541 93.0V99.0A4.0 4.0 0 0 1 514.0540540540541 103.0H512.0Z" fill="#3987e5"/>
+<text x="524.0540540540541" y="100.0" font-size="12.0" font-weight="600" fill="#f0efec">44</text>
+<path d="M512.0 117.0H512.0A2.0 2.0 0 0 1 514.0 119.0V129.0A2.0 2.0 0 0 1 512.0 131.0H512.0Z" fill="#6f6e69"/>
+<text x="520.0" y="128.0" font-size="12.0" font-weight="400" fill="#c3c2b7">10</text>
+<path d="M512.0 145.0H526.2997542997543A4.0 4.0 0 0 1 530.2997542997543 149.0V155.0A4.0 4.0 0 0 1 526.2997542997543 159.0H512.0Z" fill="#6f6e69"/>
+<text x="536.2997542997543" y="156.0" font-size="12.0" font-weight="400" fill="#c3c2b7">133</text>
+<path d="M512.0 173.0H542.6732186732187A4.0 4.0 0 0 1 546.6732186732187 177.0V183.0A4.0 4.0 0 0 1 542.6732186732187 187.0H512.0Z" fill="#6f6e69"/>
+<text x="552.6732186732187" y="184.0" font-size="12.0" font-weight="400" fill="#c3c2b7">252</text>
+<path d="M512.0 201.0H512.0A2.0 2.0 0 0 1 514.0 203.0V213.0A2.0 2.0 0 0 1 512.0 215.0H512.0Z" fill="#6f6e69"/>
+<text x="520.0" y="212.0" font-size="12.0" font-weight="400" fill="#c3c2b7">1</text>
+<text x="676.0" y="72.0" font-size="13.0" font-weight="600" fill="#f0efec">Table</text>
+<rect x="675.0" y="85.0" width="1" height="134.0" fill="#383835"/>
+<path d="M676.0 89.0H698.4176904176904A4.0 4.0 0 0 1 702.4176904176904 93.0V99.0A4.0 4.0 0 0 1 698.4176904176904 103.0H676.0Z" fill="#3987e5"/>
+<text x="708.4176904176904" y="100.0" font-size="12.0" font-weight="600" fill="#f0efec">192</text>
+<path d="M676.0 117.0H728.5503685503686A4.0 4.0 0 0 1 732.5503685503686 121.0V127.0A4.0 4.0 0 0 1 728.5503685503686 131.0H676.0Z" fill="#6f6e69"/>
+<text x="738.5503685503686" y="128.0" font-size="12.0" font-weight="400" fill="#c3c2b7">411</text>
+<path d="M676.0 145.0H780.1474201474201A4.0 4.0 0 0 1 784.1474201474201 149.0V155.0A4.0 4.0 0 0 1 780.1474201474201 159.0H676.0Z" fill="#6f6e69"/>
+<text x="790.1474201474201" y="156.0" font-size="12.0" font-weight="400" fill="#c3c2b7">786</text>
+<path d="M676.0 173.0H784.0A4.0 4.0 0 0 1 788.0 177.0V183.0A4.0 4.0 0 0 1 784.0 187.0H676.0Z" fill="#6f6e69"/>
+<text x="794.0" y="184.0" font-size="12.0" font-weight="400" fill="#c3c2b7">814</text>
+<path d="M676.0 201.0H676.0A2.0 2.0 0 0 1 678.0 203.0V213.0A2.0 2.0 0 0 1 676.0 215.0H676.0Z" fill="#6f6e69"/>
+<text x="684.0" y="212.0" font-size="12.0" font-weight="400" fill="#c3c2b7">3</text>
+</svg>
