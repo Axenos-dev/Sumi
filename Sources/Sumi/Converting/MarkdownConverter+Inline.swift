@@ -19,7 +19,7 @@ extension MarkdownConverter {
         text.append(NSAttributedString(string: " ", attributes: attributes))
 
       case is Markdown.LineBreak:
-        text.append(NSAttributedString(string: "\n", attributes: attributes))
+        text.append(NSAttributedString(string: lineSeparator, attributes: attributes))
 
       case let inlineCode as InlineCode:
         text.append(inlineCodeText(inlineCode.code, attributes: attributes))
@@ -44,7 +44,7 @@ extension MarkdownConverter {
 
       case let html as InlineHTML:
         let isLineBreak = ["<br>", "<br/>", "<br />"].contains(html.rawHTML.lowercased())
-        let string = isLineBreak ? "\n" : html.rawHTML
+        let string = isLineBreak ? lineSeparator : html.rawHTML
         text.append(NSAttributedString(string: string, attributes: attributes))
 
       default:

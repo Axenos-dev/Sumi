@@ -258,9 +258,9 @@ final class CodeBlockView: NSView {
     highlight()
   }
 
-  /// Shows the language name with an icon, like "Swift" for `swift`.
+  /// Shows the language name with an icon, like "Swift" for `swift`, or "Text" without one.
   private func showLanguage(_ language: String?) {
-    let name = language.map(Self.displayName(of:)) ?? ""
+    let name = language.map(Self.displayName(of:)) ?? "Text"
     let isNameShown = languageLabel.stringValue == name
     let isIconShown = languageIcon.isHidden == name.isEmpty
     guard !(isNameShown && isIconShown) else { return }

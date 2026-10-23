@@ -100,7 +100,7 @@ public struct CodeTheme: Equatable, Sendable {
     self.dark = dark
   }
 
-  public static let standard = CodeTheme(light: "xcode", dark: "dark")
+  public static let standard = CodeTheme(light: "xcode", dark: "xcode-dark")
 }
 
 extension EnvironmentValues {

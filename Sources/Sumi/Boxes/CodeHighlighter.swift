@@ -48,14 +48,17 @@ final class CodeHighlighter: @unchecked Sendable {
       languages = highlightr?.supportedLanguages() ?? []
     }
     guard let highlightr else { return nil }
+    guard let language, !["text", "txt", "plaintext"].contains(language.lowercased()) else {
+      return nil
+    }
 
     if self.themeName != themeName {
       highlightr.setTheme(to: themeName)
       self.themeName = themeName
     }
 
-    let knownLanguage = language.flatMap { language in
-      languages.first { $0.caseInsensitiveCompare(language) == .orderedSame }
+    let knownLanguage = languages.first {
+      $0.caseInsensitiveCompare(language) == .orderedSame
     }
     return highlightr.highlight(code, as: knownLanguage).map(HighlightedCode.init)
   }

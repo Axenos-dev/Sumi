@@ -12,6 +12,10 @@ let wordJoiner = "\u{2060}"
 /// joiner right after a space also stops the break after the space.
 let zeroWidthSpace = "\u{200B}"
 
+/// A line break inside a paragraph. A newline would start a new paragraph, with the space
+/// between paragraphs above it.
+let lineSeparator = "\u{2028}"
+
 extension NSAttributedString {
   /// The text as a copy should have it: attachments become their text, and the invisible
   /// characters go away.
@@ -42,6 +46,12 @@ extension NSAttributedString {
         range: text.fullRange
       )
     }
+    text.mutableString.replaceOccurrences(
+      of: lineSeparator,
+      with: "\n",
+      options: [],
+      range: text.fullRange
+    )
     return text
   }
 

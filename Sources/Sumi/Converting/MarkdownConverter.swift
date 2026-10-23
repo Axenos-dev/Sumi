@@ -51,6 +51,7 @@ struct MarkdownConverter {
 
     case let html as HTMLBlock:
       let source = html.rawHTML.trimmingCharacters(in: .newlines)
+        .replacingOccurrences(of: "\n", with: lineSeparator)
       text.append(NSAttributedString(string: source, attributes: blockAttributes))
 
     default:
