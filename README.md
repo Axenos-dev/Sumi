@@ -8,7 +8,7 @@
 
 Sumi is a light and fast library to render static and streaming Markdown for Mac apps, written in Swift.
 
-https://github.com/user-attachments/assets/a69af195-b103-4409-83c0-fac5596bf8db
+https://github.com/user-attachments/assets/c040165a-352b-4b46-9903-f7ad54d7d1b5
 
 ## Installation
 
